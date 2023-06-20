@@ -1,15 +1,15 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Public Status',
+  SiteName: 'MineSMS STATUS',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'm784488775-dd1ad84b209c05f8e185c33e',
-    'm784490063-7b5da437e7f1e0d67613714d',
-    'm784497419-de55aa09902ccb3ab22d548a',
-    'm784496436-71a4bf7b1e3bdf7756be131b',
+    'm794613458-35eee2677120939eae8567d3',
+    'm794613472-3b5e54cfec6587243452287f',
+    'm794614985-5fc288b0e0bde4bcac144460',
+    'm794615006-f4e649727898b1dd1267fe14',
   ],
 
   // 日志天数
@@ -22,15 +22,15 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.org.cn/'
+      url: 'https://sms.whirity404.cf'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      url: 'https://github.com/Whirity404'
     },
     {
       text: 'Blog',
-      url: 'https://abo.xyz/'
+      url: '../a.html'
     },
   ],
 };
