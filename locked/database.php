@@ -10,6 +10,14 @@ try {
   
 }
 ?>
+<body>
+  
+<html>
+  
+<title>Database Test</title>
 
+</html>
+
+</body>
 
 
